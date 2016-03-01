@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7599646186380287
+  lightness: 0.3177724464055013
+  rhythmicContrast: 0.3524064736526694
+  saturation: 0.710550431067118
+cta: {}
+layout_spectrum: 0.3972749911058998
+name: "Don't Let It Go"
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.9294362631183869

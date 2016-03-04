@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Don't Let It Go]]></title>
+        <description><![CDATA[Don't Let It Go]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 04:54:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Beauty of Ayn Rand's Ethics - The Objective Standard]]></title>
+            <description><![CDATA[<article><h1>The Beauty of Ayn Rand's Ethics - The Objective Standard</h1><p>This essay is now part of a compilation ebook, Objectivism , which is available at Amazon.com, or free with any subscription to TOS .] Ayn Rand opposed the morality of self-sacrifice, which is inherent in most philosophic systems and all religions.</p><img src="https://www.theobjectivestandard.com/wp-content/uploads/2010/12/Ayn_Rand1-241x300.jpg"></article>]]></description>
+            <link>https://www.theobjectivestandard.com/2010/12/the-beauty-of-ayn-rands-ethics/</link>
+            <guid isPermaLink="false">01ffb795-2e43-456e-af21-70e7d4e051d0</guid>
+            <pubDate>Fri, 04 Mar 2016 04:53:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Don't Let It Go]]></title>
         <description><![CDATA[Don't Let It Go]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/don-t-let-it-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:54:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 14:40:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/don-t-let-it-go/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Regulating our future]]></title>
+            <description><![CDATA[<article><h1>Regulating our future</h1><p>Sign up for one of our email newsletters. Government pretends it's the cause of progress. Then it strangles innovation. We know government understands that new technologies are important. The military invests in robots and traffic cops use radar guns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8c19db02a9f36034c59ca0eb1682eb2df39864f.jpg"></article>]]></description>
+            <link>http://triblive.com/mobile/10065925-96/government-uber-borders</link>
+            <guid isPermaLink="false">e07c8a83-d797-437f-bf10-70f18e301d1e</guid>
+            <pubDate>Sat, 05 Mar 2016 14:39:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Beauty of Ayn Rand's Ethics - The Objective Standard]]></title>
-            <description><![CDATA[<article><h1>The Beauty of Ayn Rand's Ethics - The Objective Standard</h1><p>This essay is now part of a compilation ebook, Objectivism , which is available at Amazon.com, or free with any subscription to TOS .] Ayn Rand opposed the morality of self-sacrifice, which is inherent in most philosophic systems and all religions.</p><img src="https://www.theobjectivestandard.com/wp-content/uploads/2010/12/Ayn_Rand1-241x300.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Beauty of Ayn Rand's Ethics - The Objective Standard</h1><p>This essay is now part of a compilation ebook, Objectivism , which is available at Amazon.com, or free with any subscription to TOS .] Ayn Rand opposed the morality of self-sacrifice, which is inherent in most philosophic systems and all religions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3801639bce7d7490d2e2f73120938071d2281b15.jpg"></article>]]></description>
             <link>https://www.theobjectivestandard.com/2010/12/the-beauty-of-ayn-rands-ethics/</link>
             <guid isPermaLink="false">01ffb795-2e43-456e-af21-70e7d4e051d0</guid>
             <pubDate>Fri, 04 Mar 2016 04:53:48 GMT</pubDate>
